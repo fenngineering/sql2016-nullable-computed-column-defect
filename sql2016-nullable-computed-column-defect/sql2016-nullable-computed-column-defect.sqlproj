@@ -58,4 +58,8 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="ATable.sql" />
+    <Build Include="CalcDayOfYear.sql" />
+  </ItemGroup>
 </Project>
